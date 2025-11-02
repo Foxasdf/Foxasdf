@@ -3,16 +3,19 @@
 </div>
 
 <div align="center">
+  <!-- Animated Typing Text - Fixed height to prevent text cutoff -->
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=%F0%9F%8E%AE+Indie+Game+Developer;%F0%9F%92%BB+Software+Engineer;%E2%9C%A8+Creative+Coder+%26+Problem+Solver;%F0%9F%9A%80+Building+The+Future%2C+One+Commit+at+a+Time" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%F0%9F%8E%AE+Indie+Game+Developer;%F0%9F%92%BB+Software+Engineer;%E2%9C%A8+Creative+Coder+%26+Problem+Solver;%F0%9F%9A%80+Building+The+Future%2C+One+Commit+at+a+Time" 
       alt="Typing SVG"
     />
   </a>
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <!-- Snake Animation -->
@@ -27,9 +30,9 @@
 
 <br/>
 
-<!-- Animated Astronaut -->
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<!-- Animated Astronaut - Positioned lower and to the right -->
+<div align="center" style="margin-top: 50px; margin-center: 20px;">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
@@ -73,7 +76,7 @@ class GameDeveloper extends Human implements Creative {
 }
 ```
 
-<br clear="right"/>
+<br clear="center"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
